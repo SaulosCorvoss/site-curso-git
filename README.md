@@ -1,2 +1,2 @@
 # site-curso-git
-Site curso git
+Site de como fazer café simples!
